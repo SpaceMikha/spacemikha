@@ -6,7 +6,6 @@ I have been developing, creating, engineering things for quite a long time. I lo
 
 * 🌍  I'm based in Spain
 * ✉️  You can contact me at [mikhaelmiro300@gmail.com](mailto:mikhaelmiro300@gmail.com)
-  // I'm currently working on [IVAO Web DevOps](https://ivao.aero/staff/details.asp?Id=WD8)
 * 🤝  I'm open to collaborating on interesting projects, web, software - I am up to anything, hit me up!
 
 <a href="https://www.github.com/spacemikha" target="_blank" rel="noreferrer"><img
