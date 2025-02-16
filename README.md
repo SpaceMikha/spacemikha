@@ -1,5 +1,5 @@
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mikhael da Silva
+Hi (https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mikhael da Silva
 ========================================================================================================================================
 
 I have been developing, creating, engineering things for quite a long time. I love to break down stuff and rebuild them :)
