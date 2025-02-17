@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I have been developing, creating, engineering things for quite a long time. I love to break down stuff and rebuild them :)
 
 * 🌍  I'm based in Spain
-* I'm currently working on [IVAO Web DevOps](https://ivao.aero/staff/details.asp?Id=WD8)
+* 🛠️ Currently working on [IVAO Web DevOps](https://ivao.aero/staff/details.asp?Id=WD8)
 * ✉️  You can contact me at [mikhaelmiro300@gmail.com](mailto:mikhaelmiro300@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects, web, software - I am up to anything, hit me up!
 
