@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2024/03/razon-nasa-transmitio-video-gato-30-millones-kilometros-espacio-3288985.jpg?tf=3840x"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -51,13 +47,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SpaceMikha/SpaceMikha/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SpaceMikha/SpaceMikha/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SpaceMikha/SpaceMikha/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
